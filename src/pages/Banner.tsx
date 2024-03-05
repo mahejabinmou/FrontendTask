@@ -5,10 +5,12 @@ const Banner = () => {
   return (
     <div
       className="h-full max-w-[1140px] w-full px-[120px]
-      grid md:grid-cols-12 justify-between items-center  gap-x-[104px]"
+      grid md:grid-cols-12 justify-between items-center   gap-x-[104px]"
     >
-      <div className="md:col-span-5 ">
-        <h1 className="font-bold text-5xl ">Take ideas from better to best</h1>
+      <div className="md:col-span-5 mt-4">
+        <h1 className="font-bold md:text-5xl text-2xl">
+          Take ideas from better to best
+        </h1>
         <p className="mt-4">
           Miro is your team's visual platform to connect, collaborate, and
           create — together.
