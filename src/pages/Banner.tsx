@@ -5,9 +5,9 @@ const Banner = () => {
   return (
     <div
       className="h-full max-w-[1140px] w-full px-[120px]
-      grid grid-cols-12 justify-between items-center gap-x-[104px]"
+      grid md:grid-cols-12 justify-between items-center  gap-x-[104px]"
     >
-      <div className="col-span-5">
+      <div className="md:col-span-5 ">
         <h1 className="font-bold text-5xl ">Take ideas from better to best</h1>
         <p className="mt-4">
           Miro is your team's visual platform to connect, collaborate, and
@@ -27,7 +27,7 @@ const Banner = () => {
           </p>
         </div>
 
-        <div className="bg-slate-100 flex items-center justify-between p-4 rounded-xl">
+        <div className="bg-slate-100 mt-8 flex items-center justify-between p-4 rounded-xl">
           <div className="grid grid-cols-1">
             <div className="flex items-center">
               <StarIcon className="text-yellow-500 fill-current h-3 w-3" />
@@ -48,7 +48,7 @@ const Banner = () => {
         </div>
       </div>
 
-      <div className="col-span-7">
+      <div className="md:col-span-7 mt-16">
         <img src="src/assets/images/headerimage.png" alt="" />
       </div>
     </div>
