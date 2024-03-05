@@ -1,5 +1,13 @@
+import Banner from "./Banner";
+import TrustedSection from "./TrustedSection";
+
 const Home = () => {
-  return <div></div>;
+  return (
+    <div>
+      <Banner />
+      <TrustedSection />
+    </div>
+  );
 };
 
 export default Home;

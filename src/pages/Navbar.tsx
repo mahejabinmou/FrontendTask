@@ -10,7 +10,7 @@ const Navbar = () => {
       flex justify-between items-center  "
       >
         <div className="md:flex justify-between items-center gap-4 ">
-          <span className="font-bold text-4xl place-content-around ">miro</span>
+          <span className="font-bold text-4xl  ">miro</span>
           <ul className="flex space-x-5 items-center">
             <NavLink to="/product" className="flex items-center">
               Product <ArrowDown />
