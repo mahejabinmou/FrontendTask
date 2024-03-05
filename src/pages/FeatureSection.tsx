@@ -8,7 +8,7 @@ const FeatureSection = () => {
         Collaborate without <br /> constraints
       </h1>
       <div
-        className="flex
+        className="grid grid-cols-1 md:grid-cols-3
        justify-around items-center gap-x-[160px]  "
       >
         <div>

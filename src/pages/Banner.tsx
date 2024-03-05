@@ -27,9 +27,9 @@ const Banner = () => {
           </p>
         </div>
 
-        <div className="bg-slate-100 mt-8 flex items-center justify-between p-4 rounded-xl">
+        <div className="bg-slate-100 mt-8 grid md:grid-cols-2 place-content-center items-center justify-between p-4 rounded-xl">
           <div className="grid grid-cols-1">
-            <div className="flex items-center">
+            <div className="flex md:flex items-center">
               <StarIcon className="text-yellow-500 fill-current h-3 w-3" />
               <StarIcon className="text-yellow-500 fill-current h-3 w-3" />
               <StarIcon className="text-yellow-500 fill-current h-3 w-3" />

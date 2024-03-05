@@ -4,16 +4,16 @@ const LearnMoreSection = () => {
   return (
     <div
       className="h-full max-w-[1240px] w-full px-[120px]
-      grid grid-cols-12 justify-between items-center gap-x-[100px] "
+      grid md:grid-cols-12 justify-between items-center gap-x-[100px] "
     >
-      <div className="col-span-6">
+      <div className="md:col-span-6">
         <img
           src="src/assets/images/M3_integrations_all_integrations.png"
           alt=""
         />
       </div>
 
-      <div className="col-span-6">
+      <div className="md:col-span-6">
         <h1 className="text-3xl font-bold">
           Connect your tools, close your tabs
         </h1>

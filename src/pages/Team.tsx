@@ -1,12 +1,12 @@
 const Team = () => {
   return (
-    <div className="h-full max-w-[1240px] w-full px-[120px] mt-20  ">
+    <div className="h-full max-w-[1240px] w-full px-[120px] mt-20 mb-12 ">
       <div
-        className="flex
-     justify-around items-center gap-x-[160px]  "
+        className="grid grid-cols-1 md:grid-cols-3 place-content-center
+     justify-around items-center md:gap-x-[160px] md:gap-8 "
       >
-        <div>
-          <h1 className="text-4xl ">
+        <div className="">
+          <h1 className="text-4xl">
             <span className="font-bold">vm</span>ware
           </h1>
           <p className="mt-4 text-sm">
@@ -15,8 +15,8 @@ const Team = () => {
             would suffer. Miro was the perfect tool to help us with
             collaboration, whiteboarding, and retrospectives while remote.”
           </p>
-          <div className="flex gap-2 mt-8">
-            <img src="src/assets/images/div.png" alt="" />
+          <div className="flex gap-2 mt-2">
+            <img src="src/assets/images/div.png" alt="" className="w-12 h-12" />
             <div className="grid grid-cols-1">
               <p className="text-sm text-gray-400">Roxanne Mustafa</p>
               <p className="text-sm text-gray-400">
@@ -34,7 +34,7 @@ const Team = () => {
             different tools.”
           </p>
 
-          <div className="flex gap-2 mt-8">
+          <div className="flex gap-2 md:mt-14 mt-2">
             <img
               src="src/assets/images/div (1).png"
               alt=""
@@ -50,14 +50,14 @@ const Team = () => {
         </div>
 
         <div>
-          <h1 className="text-4xl font-bold">frog</h1>
+          <h1 className="text-4xl font-bold ">frog</h1>
           <p className="mt-4 text-sm">
             “As we used Miro we moved from skepticism to belief to innovation,
             and now we have a tool that’s at the core of what we do and will
             continue to extend into the future.”
           </p>
 
-          <div className="flex gap-2 mt-8">
+          <div className="flex gap-2 md:mt-14 mt-2">
             <img
               src="src/assets/images/div (2).png"
               alt=""
