@@ -36,7 +36,7 @@ const Team = () => {
 
           <div className="flex gap-2 md:mt-14 mt-2">
             <img
-              src="src/assets/images/div (1).png"
+              src="https://i.ibb.co/FJ04qrd/div-1.png"
               alt=""
               className="w-12 h-12"
             />
@@ -59,7 +59,7 @@ const Team = () => {
 
           <div className="flex gap-2 md:mt-14 mt-2">
             <img
-              src="src/assets/images/div (2).png"
+              src="https://i.ibb.co/FVQymXF/div-2.png"
               alt=""
               className="w-12 h-12"
             />

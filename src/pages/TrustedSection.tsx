@@ -6,11 +6,11 @@ const TrustedSection = () => {
         className="grid grid-cols-3 md:grid-cols-5
            justify-between items-center gap-4 md:gap-x-[104px]"
       >
-        <img src="src/assets/images/Walmart_Index_Only.svg.png" alt="" />
-        <img src="src/assets/images/cisco.svg.png" alt="" />
-        <img src="src/assets/images/Volvo_Index_Only.svg.png" alt="" />
-        <img src="src/assets/images/deloitte.svg.png" alt="" />
-        <img src="src/assets/images/okta.svg.png" alt="" />
+        <img src="https://i.ibb.co/brVsy4L/Walmart-Index-Only-svg.png" alt="" />
+        <img src="https://i.ibb.co/2MPvLr7/cisco-svg.png" alt="" />
+        <img src="https://i.ibb.co/59MDZXx/Volvo-Index-Only-svg.png" alt="" />
+        <img src="https://i.ibb.co/hVcgZWJ/deloitte-svg.png" alt="" />
+        <img src="https://i.ibb.co/s2z8K9R/okta-svg.png" alt="" />
       </div>
     </div>
   );

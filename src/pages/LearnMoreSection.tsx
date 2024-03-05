@@ -8,7 +8,7 @@ const LearnMoreSection = () => {
     >
       <div className="md:col-span-6">
         <img
-          src="src/assets/images/M3_integrations_all_integrations.png"
+          src="https://i.ibb.co/M5W4yTD/M3-integrations-all-integrations.png"
           alt=""
         />
       </div>

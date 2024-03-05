@@ -14,7 +14,7 @@ const WorkSection = () => {
       </div>
 
       <div className="md:col-span-7">
-        <img src="src/assets/images/hybridwork.png" alt="" />
+        <img src="https://i.ibb.co/mS7h8ZN/hybridwork.png" alt="" />
       </div>
     </div>
   );

@@ -4,7 +4,7 @@ const ReportSection = () => {
       className="h-full max-w-[1380px] w-full px-[140px] flex items-center
       "
     >
-      <img src="src/assets/images/section.png" alt="" />
+      <img src="https://i.ibb.co/Wxx9Lpz/section.png" alt="" />
     </div>
   );
 };

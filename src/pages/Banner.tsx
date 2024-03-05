@@ -41,15 +41,18 @@ const Banner = () => {
           </div>
 
           <div className="flex items-center gap-2">
-            <img src="src/assets/images/Frame.png" alt="" />
-            <img src="src/assets/images/svg.png" alt="" />
-            <img src="src/assets/images/svg (1).png" alt="" />
+            <img src="https://i.ibb.co/hVWxX1r/Frame.png" alt="" />
+            <img src="https://i.ibb.co/wgZ752s/svg.png" alt="" />
+            <img src="https://i.ibb.co/4tKfyk3/svg-1.png" alt="" />
           </div>
         </div>
       </div>
 
       <div className="md:col-span-7 mt-16">
-        <img src="src/assets/images/headerimage.png" alt="" />
+        <img
+          src="https://i.ibb.co/QPdwJS8/headerimage-without-text.png"
+          alt=""
+        />
       </div>
     </div>
   );

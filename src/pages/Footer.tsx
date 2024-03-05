@@ -14,17 +14,17 @@ const Footer = () => {
                     <p className="text-white ">Scan. Detect. Remove.</p>
                     <div className="flex md:flex flex-wrap gap-4 m-2">
                       <img
-                        src="src/assets/images/svg (2).png"
+                        src="https://i.ibb.co/2dfYPdT/svg-2.png"
                         alt=""
                         className="h-6 w-6"
                       />
                       <img
-                        src="src/assets/images/svg (3).png"
+                        src="https://i.ibb.co/mcHY3jM/svg-3.png"
                         alt=""
                         className="h-6 w-6"
                       />
                       <img
-                        src="src/assets/images/svg (4).png"
+                        src="https://i.ibb.co/2yH7CXD/svg-4.png"
                         alt=""
                         className="h-6 w-6"
                       />
